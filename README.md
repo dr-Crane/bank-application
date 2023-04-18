@@ -8,7 +8,7 @@
 3) [Swagger](http://localhost:8083/swagger-ui/index.html#/) для сервиса авторизации
 4) [Swagger](http://localhost:8081/swagger-ui/index.html#/) для сервиса пользователей
 5) [Swagger](http://localhost:8082/swagger-ui/index.html#/) сервиса кредитования
-6) [Eureka server](http://localhost:8080/eureka) - протоколо обнаружения сервисов
+6) [Eureka server](http://localhost:8080/eureka) - протокол обнаружения сервисов
 
 ### Подводные камни
 1) Если нужен сервис кредитования, запустите сервис ядра
